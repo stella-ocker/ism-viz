@@ -1,0 +1,24 @@
+## Pulsar properties (name, RA, DEC, Distance) for input to 3D ISM plotting ##
+## Distances are derived from pulsar parallax where possible (note formal uncertainties not included here).
+## Stella Ocker ##
+
+# Name 		RA		DEC		Dist (kpc)
+
+# pulsars observed w/ FAST by Ocker+2023	
+B0355+54	03h58m53.72s	+54d13m13.8s	1.09		
+B0919+06	09h22m14.02s	+06d38m23.3s	1.21
+B0950+08	09h53m09.31s	+07d55m35.7s	0.262
+J1643-1224	16h43m38.16s	-12d24m58.7s	0.763
+J1713+0747	17h13m49.53s	+07d47m37.5s	1.05
+J1740+1000	17h40m25.95s	+10d00m06.3s	1.2
+B1929+10	19h32m14.05s	+10d59m33.3s	0.361
+B1957+20	19h59m36.77s	+20d48m15.1s	2.57
+
+# pulsars observed in previous studies
+B1133+16	11h36m03.1198s	15d51m14.183s	0.372
+J0437-4715	04h37m15.896s	-47d15m09.11s	0.156
+J0613-0200	06h13m43.9759s	-02d00m47.237s	1.11
+J1909-3744	19h09m47.432s	-37d44m14.583s	1.15
+B0834+06	08h37m05.642s	+06d10m14.56s	0.613
+B1508+55	15h09m25.6298s	+55d31m32.394s	2.1
+J0538+2817	05h38m25.0572s	+28d17m09.161s	1.3
