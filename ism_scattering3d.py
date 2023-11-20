@@ -1,5 +1,6 @@
 '''
-Python script to create a 3D interactive visualization of scattering screens inferred from scintillation arcs and various large-scale ISM features of interest, as in Ocker et al. (arXiv:2309.13809). 
+Python script to create a 3D interactive visualization of scattering screens inferred from scintillation arcs 
+and various large-scale ISM features of interest, as in Ocker et al. (arXiv:2309.13809). 
 
 
 Required input data:
@@ -156,7 +157,8 @@ pastel_colors = px.colors.qualitative.Pastel1
 plotly_colors = px.colors.qualitative.Dark24
 
 # create list of colors for pulsar LOSs
-psr_colors = concatenate((plotly_colors[0:5],plotly_colors[6:9],plotly_colors[9:16]))
+#psr_colors = concatenate((plotly_colors[0:5],plotly_colors[6:9],plotly_colors[9:16])) # colors selected for Ocker+2023
+psr_colors = copy(plotly_colors) # longer list of colors to accommodate any new lines of sight
 
 ### create figure ###
 
