@@ -18,7 +18,7 @@ For a complete description of the visualization contents, see Section 6.3 and Fi
 ## Usage
 `python ism_scattering3d.py`
 
-This program is designed to automatically parse pulsar and screen locations specified in `pulsar_properties_ism3d.txt` and `screen_properties_ism3d.txt`. To add new lines of sight with changing any of the other plot components, simply modify those two input files.
+This program is designed to automatically parse pulsar and screen locations specified in `pulsar_properties_ism3d.txt` and `screen_properties_ism3d.txt`. To add new lines of sight without changing any of the other plot components, simply modify those two input files.
 
 ## Input Data
 **pulsar_properties_ism3d.txt**
