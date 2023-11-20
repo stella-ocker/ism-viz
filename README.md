@@ -22,10 +22,10 @@ This program is designed to automatically parse pulsar and screen locations spec
 
 ## Input Data
 **pulsar_properties_ism3d.txt**
-  >pulsar coordinates
+  >pulsar coordinates (provided in this repository)
 
 **screen_properties_ism3d.txt**
-  >screen distances
+  >screen distances (provided in this repository)
 
 **L19_map-inner_final.fits**
   >Local Bubble model from Pelgrims et al. (2020); download the file from https://doi.org/10.7910/DVN/RHPVNC 
