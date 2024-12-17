@@ -4,7 +4,7 @@
 
 The visualization includes:
 - scattering screen locations from previous studies (see reference list in screen_properties_ism3d.txt)
-- fiducial estimates of scattering screen locations for eight pulsars observed with FAST (from Ocker et al. 2023)
+- fiducial estimates of scattering screen locations for eight pulsars observed with FAST (from Ocker et al. 2024)
 - a Local Bubble model based on dust extinction maps (from Pelgrims et al. 2020)
 - locations of local molecular clouds (from Zucker et al. 2020)
 - select local HII regions (Sh 2-205, Sh 2-27, Sh 2-7)
@@ -12,7 +12,7 @@ The visualization includes:
 - superbubble GSH 238+00+09
 - the Per-Tau shell (from Bialy et al. 2021)
 
-For a complete description of the visualization contents, see Section 6.3 and Figure 12 of Ocker et al. (2023). Exercise caution when interpreting screen distances; for a full discussion see Section 6.3 of the paper.
+For a complete description of the visualization contents, see Section 6.3 and Figure 12 of Ocker et al. (2024). Exercise caution when interpreting screen distances; for a full discussion see Section 6.3 of the paper.
 
 
 ## Usage
